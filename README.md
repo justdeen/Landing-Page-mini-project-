@@ -1,29 +1,29 @@
 https://just-deen.github.io/Landing-Page-mini-project-/ -hosted on github 
 
-# Digital Agency Website
+## 💫 Overview 
 
 This is a responsive digital agency website built using HTML, CSS, and Bootstrap. The website showcases the agency's services, testimonials, and contact information.
 
 
 
-# Features
+## Features
 
-- Navbar: A responsive navigation bar with links to Home, Services, About Us, Testimonials, and Contact sections.
+1. 🎈 Navbar: A responsive navigation bar with links to Home, Services, About Us, Testimonials, and Contact sections.
 
-- Home Section: Introduces the agency with a brief description, a call-to-action button, and a tutorial video link.
+2. 🎈 Home Section: Introduces the agency with a brief description, a call-to-action button, and a tutorial video link.
 
-- Services Section: Displays the agency's services, including Growth Marketing, Online Branding, and Animated Ads.
+3. 🎈 Services Section: Displays the agency's services, including Growth Marketing, Online Branding, and Animated Ads.
 
-- About Us Section: Highlights the agency's unique approach and values.
+4. 🎈 About Us Section: Highlights the agency's unique approach and values.
 
-- Testimonials Section: Showcases client testimonials with images and quotes.
+5. 🎈 Testimonials Section: Showcases client testimonials with images and quotes.
 
-- Contact Section: Provides social media links and contact information.
+6. 🎈 Contact Section: Provides social media links and contact information.
 
-- Footer Section: Includes agency information, contact details, and a subscription form.
+7. 🎈 Footer Section: Includes agency information, contact details, and a subscription form.
 
 
-# Tools and Resources 
+## 📦 Tools and Resources 
 
 - HTML5
 - CSS3
@@ -31,7 +31,7 @@ This is a responsive digital agency website built using HTML, CSS, and Bootstrap
 - Font Awesome
 
 
-# Files Included
+## 📃 Files Included
 
 - index.html: The main HTML file.
 - Bootstrap1.css: Custom CSS file.
