@@ -25,14 +25,14 @@ This is a responsive digital agency website built using HTML, CSS, and Bootstrap
 
 ## 📦 Tools and Resources 
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Font Awesome
+1. HTML5
+2. CSS3
+3. Bootstrap 5
+4. Font Awesome
 
 
 ## 📃 Files Included
 
-- index.html: The main HTML file.
-- Bootstrap1.css: Custom CSS file.
-- bootstrap.js: JavaScript file.
+1. index.html: The main HTML file.
+2. Bootstrap1.css: Custom CSS file.
+3. bootstrap.js: JavaScript file.
