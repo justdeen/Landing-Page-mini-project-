@@ -8,19 +8,19 @@ This is a responsive digital agency website built using HTML, CSS, and Bootstrap
 
 ## Features
 
-1. 🎈 Navbar: A responsive navigation bar with links to Home, Services, About Us, Testimonials, and Contact sections.
+1. Navbar: A responsive navigation bar with links to Home, Services, About Us, Testimonials, and Contact sections.
 
-2. 🎈 Home Section: Introduces the agency with a brief description, a call-to-action button, and a tutorial video link.
+2. Home Section: Introduces the agency with a brief description, a call-to-action button, and a tutorial video link.
 
-3. 🎈 Services Section: Displays the agency's services, including Growth Marketing, Online Branding, and Animated Ads.
+3. Services Section: Displays the agency's services, including Growth Marketing, Online Branding, and Animated Ads.
 
-4. 🎈 About Us Section: Highlights the agency's unique approach and values.
+4. About Us Section: Highlights the agency's unique approach and values.
 
-5. 🎈 Testimonials Section: Showcases client testimonials with images and quotes.
+5. Testimonials Section: Showcases client testimonials with images and quotes.
 
-6. 🎈 Contact Section: Provides social media links and contact information.
+6. Contact Section: Provides social media links and contact information.
 
-7. 🎈 Footer Section: Includes agency information, contact details, and a subscription form.
+7. Footer Section: Includes agency information, contact details, and a subscription form.
 
 
 ## 📦 Tools and Resources 
