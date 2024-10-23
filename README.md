@@ -1,5 +1,3 @@
-https://just-deen.github.io/Landing-Page-mini-project-/ -hosted on github 
-
 ## 💫 Overview 
 
 This is a responsive digital agency website built using HTML, CSS, and Bootstrap. The website showcases the agency's services, testimonials, and contact information.
