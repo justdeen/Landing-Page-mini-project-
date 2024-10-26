@@ -7,7 +7,7 @@ This is a responsive digital agency website built using HTML, CSS, and Bootstrap
 
 
 
-## Features
+## 🪄Features
 
 1. Navbar: A responsive navigation bar with links to Home, Services, About Us, Testimonials, and Contact sections.
 
